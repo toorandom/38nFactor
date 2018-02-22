@@ -1,0 +1,2 @@
+gcc  -g3 -ggdb 38n.c  thread_por_cpu.c  -o checkprimes38n1 -lcrypto -lpthread
+
